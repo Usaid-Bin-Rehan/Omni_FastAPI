@@ -1,0 +1,90 @@
+# Byte-compiled / optimized / DLL files
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+**/venv/
+*venv/
+venv/
+env/
+.venv/
+.env/
+25Sep25/
+
+# Environment variable files
+.env
+.env.*
+
+# Test cache and coverage
+.pytest_cache/
+.coverage
+.coverage.*
+coverage/
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+.cache/
+.hypothesis/
+
+# MyPy and Pylint
+.mypy_cache/
+.dmypy.json
+.pyre/
+.ruff_cache/
+
+# PyInstaller
+build/
+dist/
+*.spec
+pip-wheel-metadata/
+.eggs/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+.history/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDEs
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Local SQLite databases
+*.sqlite3
+*.db
+
+# FastAPI auto-generated docs (if exported)
+docs/
+
+# Optional: ignore migrations if using ORM like Alembic
+migrations/
+
+# Python version manager
+.python-version
+
+# Editor swap/backup files
+*.swp
+*.swo
+*~
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite-journal
+/.vs/slnx.sqlite
+/.vs/Omni_FastAPI
